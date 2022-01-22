@@ -5,7 +5,7 @@
 <arg name="node_start_delay" default="1.0" />
 
 	<arg name="fcu_url" default="udp://:15595@localhost:14557" />
-	<arg name="fcu_protocol" default="v1.0" />
+	<arg name="fcu_protocol" default="v3.0" />
 <!--
 	<arg name="gcs_url" default="udp://:14556@localhost:14551" />
 -->
